@@ -1,3 +1,4 @@
+This is a copy  of duttos/cellular_evolution that I am using for a Masters project at the University of Sussex for the AI and Adaptive Systems MSc
 
 1.  Get Python v3.x from 
 
